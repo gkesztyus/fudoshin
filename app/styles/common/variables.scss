@@ -1,0 +1,17 @@
+/******************************************************/
+/******************DESIGN CATALOGUE********************/
+/*no logical definition, only colours and colour names*/
+/******************************************************/
+$brand-white-1: #FFFFFF;
+
+$brand-gray-1: #CCCCCC;
+
+
+/******************************************************/
+/*****************LOGICAL CATALOGUE********************/
+/****all colours MUST come from design catalogue*******/
+/******************************************************/
+
+/*font-colours*/
+$color-lightest: $brand-white-1;
+$color-light-gray: $brand-gray-1;
