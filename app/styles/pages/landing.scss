@@ -8,9 +8,15 @@ body {
 .page-landing{
   h1{
     color: $color-lightest;
+    margin: 300px auto;
+    font-family: fantasy;
+    text-shadow: 2px 2px 11px black;
+    font-size: 3em;
   }
-  .jumbotron{
-    background-color: rgba(255,255,255,0.8);
+  .well{
+    background-color: rgba(255,255,255,0.9);
+    padding: 3em;
+    font-size: 1.5em;
   }
 }
 
